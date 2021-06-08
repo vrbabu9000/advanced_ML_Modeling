@@ -1,7 +1,8 @@
+# Decision Tree
 Use decision trees to prepare a model on fraud data 
 treating those who have taxable_income <= 30000 as "Risky" and others are "Good"
 
-Data Description :
+### Data Description :
 
 Undergrad : person is under graduated or not
 Marital.Status : marital status of a person
