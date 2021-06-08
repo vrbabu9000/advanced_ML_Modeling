@@ -1,9 +1,12 @@
-Decision Tree
+# Decision Tree
  
-Assignment
+### Problem Statement:
+A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
+Approach - A decision tree can be built with target variable Sale (we will first convert it in categorical variable) & all other variable will be independent in the analysis.  
 
 
-About the data: 
+
+### About the data: 
 Let’s consider a Company dataset with around 10 variables and 400 records. 
 The attributes are as follows: 
  Sales -- Unit sales (in thousands) at each location
@@ -17,8 +20,5 @@ The attributes are as follows:
  Education -- Education level at each location
  Urban -- A factor with levels No and Yes to indicate whether the store is in an urban or rural location
  US -- A factor with levels No and Yes to indicate whether the store is in the US or not
-The company dataset looks like this: 
+
  
-Problem Statement:
-A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
-Approach - A decision tree can be built with target variable Sale (we will first convert it in categorical variable) & all other variable will be independent in the analysis.  
