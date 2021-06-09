@@ -1,24 +1,10 @@
-<<<<<<< HEAD
 # Decision Tree Problem 2
-=======
-# Decision Tree
- 
-### Problem Statement:
-A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
-Approach - A decision tree can be built with target variable Sale (we will first convert it in categorical variable) & all other variable will be independent in the analysis.  
-
->>>>>>> 1a73d2b70cca2f81ea5cdd226934e2059bf76249
 
 A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
 Approach - A decision tree can be built with target variable Sale (we will first convert it in categorical variable) & all other variable will be independent in the analysis.  
 
 ### Data Description:
 
-<<<<<<< HEAD
-=======
-### Data Description:
-
->>>>>>> 1a73d2b70cca2f81ea5cdd226934e2059bf76249
 Let’s consider a Company dataset with around 10 variables and 400 records. 
 
 
@@ -33,8 +19,4 @@ The attributes are as follows:
 - Age -- Average age of the local population
 - Education -- Education level at each location
 - Urban -- A factor with levels No and Yes to indicate whether the store is in an urban or rural location
-<<<<<<< HEAD
 - US -- A factor with levels No and Yes to indicate whether the store is in the US or not 
-=======
-- US -- A factor with levels No and Yes to indicate whether the store is in the US or not 
->>>>>>> 1a73d2b70cca2f81ea5cdd226934e2059bf76249
